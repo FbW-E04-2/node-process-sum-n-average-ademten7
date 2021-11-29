@@ -1,0 +1,24 @@
+{
+    "name": "process-sum-n-average-ademten7",
+    "version": "1.0.0",
+    "description": "Create a program that takes in an operation to perform (\"sum\" / \"avg\"), and a set of numbers as arguments. The program should print out the result of the calculation to the terminal.",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/FbW-E04-2/node-process-sum-n-average-ademten7.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/FbW-E04-2/node-process-sum-n-average-ademten7/issues"
+    },
+    "homepage": "https://github.com/FbW-E04-2/node-process-sum-n-average-ademten7#readme",
+    "dependencies": {
+        "chalk": "^5.0.0"
+    }
+}
